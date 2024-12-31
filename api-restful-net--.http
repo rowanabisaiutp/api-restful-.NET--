@@ -1,0 +1,6 @@
+@api_restful_net___HostAddress = http://localhost:5193
+
+GET {{api_restful_net___HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
